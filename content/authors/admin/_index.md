@@ -44,7 +44,11 @@ highlight_name: false
 ---
 I am PhD candidate in Public Affairs. I am interested in research questions at the intersection of energy policy, public perceptions and public health. My dissertation focuses on how institutions, public policies and individual perceptions influence decision-making and health outcomes, primarily in the energy policy domain. This dissertation utilizes a broad array of research methodologies, including survey research, mixed-methods research design, and empirical analysis using large data. 
 
-My research projects fall into three main categories: (1) perceptions towards fossil fuel extraction; (2) unintended consequences of environmental regulations; and (3) impediments to health-seeking behaviors.
+My research projects fall into three main categories: 
+
+1. perceptions towards fossil fuel extraction
+2. unintended consequences of environmental regulations
+3. impediments to health-seeking behaviors
 
 Currently, a large portion of my research portfolio is dedicated to understanding black lung disease. I am particularly focused on identifying the barriers to coal miners’ participation in federal healthcare screening programs, and evaluating the effect of energy policies on disease incidence rates. 
 
