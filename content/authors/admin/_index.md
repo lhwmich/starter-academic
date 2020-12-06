@@ -16,7 +16,7 @@ social:
     link: https://www.linkedin.com/in/michelle-hung-wai-lee-87952319/
   - icon_pack: ai
     icon: cv
-    link: /static/files/Michelle LEE_CV.pdf
+    link: /media/Michelle_LEE_CV.pdf
 organizations:
   - name: Indiana University
     url: https://www.iu.edu
