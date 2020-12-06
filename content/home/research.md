@@ -16,7 +16,6 @@ weight: 100  # Order that this section will appear.
 ---
 
 ## Peer-reviewed Journal Articles
-<br/>
 
 **Lee, M.H.** & Clark, A., 2020. “[Partisanship Does Not Tell the Full Story: The Complexities of Public Opinion and Fracking in the United States.](<[https://www.sciencedirect.com/science/article/pii/S2214629620302619?casa_token=NCrcXFtMagIAAAAA:nMNZXsuNv8prfbsR7Zh6jiyZX8a2q_9m-axGl8slRgL6kCEkFgcBHNX__hzQJuMZtS8zvngR](https://www.sciencedirect.com/science/article/pii/S2214629620302619?casa_token=NCrcXFtMagIAAAAA:nMNZXsuNv8prfbsR7Zh6jiyZX8a2q_9m-axGl8slRgL6kCEkFgcBHNX__hzQJuMZtS8zvngR "https\://www.sciencedirect.com/science/article/pii/S2214629620302619?casa_token=NCrcXFtMagIAAAAA:nMNZXsuNv8prfbsR7Zh6jiyZX8a2q_9m-axGl8slRgL6kCEkFgcBHNX\_\_hzQJuMZtS8zvngR")>)” *Energy Research & Social Science (70):* 101686. 
 
@@ -27,7 +26,6 @@ Schenk, O., **Lee,** **M.H.**, Paydar, N.H., Rupp, J.A. & Graham, J.D. 2014. �
 <br/>
 
 ## Working Papers and Work in Progress
-<br/>
 
 **Lee, Michelle H.** “Do Labor Unions Increase Uptake of Occupational Health Screening Services? Evidence from the Coal Workers’ Health Surveillance Program.” (Job Market Paper) 
 
@@ -44,13 +42,11 @@ Schenk, O., **Lee,** **M.H.**, Paydar, N.H., Rupp, J.A. & Graham, J.D. 2014. �
 <br/>
 
 ## Other Publications
-<br/>
 
 **Lee, M.H.**, Schenk, O. & Graham, J.D. “[Interstate Variation in the Extent of “Fracking” for Natural Gas: Insights from Public Opinion Research.](https://oneill.indiana.edu/doc/research/working-groups/graham_lee_schenk_fracking.pdf)” *SPEA Insights. School of Public and Environmental Affairs, Indiana University.* September 2014.
 
 <br/>
 
 ## Media Citations & Interviews
-<br/>
 
 **“[Pennsylvania Fracking Politics Are More Complicated Than They Seem.](https://www.sierraclub.org/sierra/election-2020/pennsylvania-fracking-politics-are-more-complicated-they-seem)”** Sierra, October 28, 2020
