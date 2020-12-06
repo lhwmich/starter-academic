@@ -33,7 +33,7 @@ education:
       institution: University of Michigan - Ann Arbor (College of Literature, Science,
         and the Arts)
       year: 2010
-email: ""
+email: michlhw@indiana.edu
 superuser: true
 user_groups:
   - Researchers
