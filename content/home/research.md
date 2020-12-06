@@ -1,6 +1,6 @@
 ---
 draft: false
-editable: false
+editable: true
 summary: summary
 header:
   caption: ""
