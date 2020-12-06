@@ -4,11 +4,11 @@ role: Ph.D. Candidate
 avatar_filename: bio_photo_michlhw.jpg
 bio: ""
 interests:
-  - Energy policy & public health
-  - Consumer behavior & psychology of resource use
-  - Environmental justice & equality
-  - Research design & methodology
-  - Policy choice & analysis.
+  - Energy Policy & Public Health
+  - Consumer Behavior & Psychology of Resource Use
+  - Environmental Justice & Equality
+  - Research Design & Methodology
+  - Policy Choice & Analysis
 social:
   - icon: envelope
     icon_pack: fas
