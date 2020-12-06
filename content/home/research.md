@@ -49,4 +49,4 @@ Schenk, O., **Lee,** **M.H.**, Paydar, N.H., Rupp, J.A. & Graham, J.D. 2014. �
 
 ## Media Citations & Interviews
 
-**“[Pennsylvania Fracking Politics Are More Complicated Than They Seem.](https://www.sierraclub.org/sierra/election-2020/pennsylvania-fracking-politics-are-more-complicated-they-seem)”** Sierra, October 28, 2020
+“[Pennsylvania Fracking Politics Are More Complicated Than They Seem.](https://www.sierraclub.org/sierra/election-2020/pennsylvania-fracking-politics-are-more-complicated-they-seem)”** Sierra, October 28, 2020
