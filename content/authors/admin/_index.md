@@ -1,7 +1,7 @@
 ---
 title: Michelle HW Lee
 role: Ph.D. Candidate
-avatar_filename: michlhw_cropped_116.png
+avatar_filename: bio_photo_michlhw.jpg
 bio: ""
 interests:
   - Artificial Intelligence
