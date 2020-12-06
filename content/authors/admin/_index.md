@@ -46,9 +46,9 @@ I am PhD candidate in Public Affairs. I am interested in research questions at t
 
 My research projects fall into three main categories: 
 
-1. perceptions towards fossil fuel extraction
-2. unintended consequences of environmental regulations
-3. impediments to health-seeking behaviors
+1. Perceptions towards fossil fuel extraction
+2. Unintended consequences of environmental regulations
+3. Impediments to health-seeking behaviors
 
 Currently, a large portion of my research portfolio is dedicated to understanding black lung disease. I am particularly focused on identifying the barriers to coal miners’ participation in federal healthcare screening programs, and evaluating the effect of energy policies on disease incidence rates. 
 
