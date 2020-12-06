@@ -25,6 +25,7 @@ weight: 100  # Order that this section will appear.
 Schenk, O., **Lee,** **M.H.**, Paydar, N.H., Rupp, J.A. & Graham, J.D. 2014. “[Unconventional Gas Development in the U.S. States: Exploring the Variation.](<https://www.jstor.org/stable/24323763?seq=1>)” *European Journal of Risk Regulation*(4): 436-458.
 
 <br/>
+
 ## Working Papers and Work in Progress
 <br/>
 
@@ -41,12 +42,14 @@ Schenk, O., **Lee,** **M.H.**, Paydar, N.H., Rupp, J.A. & Graham, J.D. 2014. �
 **Lee, Michelle H.**, Lennex, Robert. & Hendryx, Michael S. “Evaluating the Effect of Distance to Healthcare Facilities on Participation Rate in Health Screening Programs.”
 
 <br/>
+
 ## Other Publications
 <br/>
 
 **Lee, M.H.**, Schenk, O. & Graham, J.D. “[Interstate Variation in the Extent of “Fracking” for Natural Gas: Insights from Public Opinion Research.](https://oneill.indiana.edu/doc/research/working-groups/graham_lee_schenk_fracking.pdf)” *SPEA Insights. School of Public and Environmental Affairs, Indiana University.* September 2014.
 
 <br/>
+
 ## Media Citations & Interviews
 <br/>
 
