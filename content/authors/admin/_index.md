@@ -4,9 +4,11 @@ role: Ph.D. Candidate
 avatar_filename: bio_photo_michlhw.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Energy policy & public health
+  - Consumer behavior & psychology of resource use
+  - Environmental justice & equality
+  - Research design & methodology
+  - Policy choice & analysis.
 social:
   - icon: envelope
     icon_pack: fas
