@@ -42,7 +42,7 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-I am PhD candidate in Public Affairs. I am interested in research questions at the intersection of energy policy, public perceptions and public health. My dissertation focuses on how institutions, public policies and individual perceptions influence decision-making and health outcomes, primarily in the energy policy domain. This dissertation utilizes a broad array of research methodologies, including survey research, mixed-methods research design, and empirical analysis using large data. 
+I am a PhD candidate in Public Affairs. I am interested in research questions at the intersection of energy policy, public perceptions and public health. My dissertation focuses on how institutions, public policies and individual perceptions influence decision-making and health outcomes, primarily in the energy policy domain. This dissertation utilizes a broad array of research methodologies, including survey research, mixed-methods research design, and empirical analysis using large data. 
 
 My research projects fall into three main categories: 
 
